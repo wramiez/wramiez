@@ -1,37 +1,75 @@
-# Hola, soy Walter Ramírez 👋
+<div align="center">
 
-**Desarrollador Full Stack · Java, Spring Boot y Angular** · Asunción, Paraguay
+<img src="https://github.com/wramiez.png" width="130" style="border-radius:50%" alt="Walter Ramírez" />
 
-Construyo sistemas para el sector financiero y de Recursos Humanos. Actualmente cumplo funciones de liderazgo técnico en un sistema de RRHH, coordinando a un equipo de 3 desarrolladores con Scrum.
+# Walter Ramírez
 
-### 🔧 Lo que hago
+### Desarrollador Full Stack · Java · Spring Boot · Angular
 
-- Arquitecturas backend modulares y APIs REST con Spring Boot
-- Motores de formularios dinámicos basados en configuración JSON (schema-driven)
-- Roles y permisos granulares en sistemas multiempresa, con Keycloak
-- Modelado de bases de datos relacionales y optimización de consultas
-- Integraciones con servicios externos mediante adapters, colas y procesos asíncronos
-- Desarrollo, documentación y relevamiento técnico asistidos por IA (Claude Code, Codex)
+<a href="https://github.com/wramiez">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Backends+modulares+y+APIs+REST+con+Spring+Boot;Liderazgo+t%C3%A9cnico+de+un+sistema+de+RRHH;Sistemas+financieros+que+escalan;IA+aplicada+al+desarrollo%3A+Claude+Code+%2B+Codex" alt="Typing SVG" />
+</a>
 
-### 📈 Algunos resultados
+<p>
+  <a href="https://www.linkedin.com/in/walter-ramirez-dev/"><img src="https://img.shields.io/badge/LinkedIn-walter--ramirez--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:wramiez84@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Asunci%C3%B3n-Paraguay-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+</p>
 
-- Optimicé la liquidación mensual de salarios de 500 funcionarios: de 4–5 minutos a menos de 2, eliminando consultas N+1.
-- Diseñé la primera versión de un motor de formularios dinámicos (backend y frontend).
-- Desarrollé y presenté al cliente una solución de Open Banking de punta a punta.
+</div>
 
-### 🛠️ Stack
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+## 👨‍💻 Sobre mí
 
-### 📫 Contacto
+Ingeniero en Informática con casi **4 años** construyendo software para el **sector financiero y de Recursos Humanos**. Actualmente en **CLT S.A.**, donde además de desarrollar cumplo funciones de **liderazgo técnico** en el sistema de RRHH, coordinando a **3 desarrolladores** con Scrum en sprints de 2 semanas.
 
-[LinkedIn](https://www.linkedin.com/in/walter-ramirez-dev/) · wramiez84@gmail.com
+Vengo de una base contable y trabajé como analista funcional: entiendo el negocio antes de escribir código.
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Qué hice | Resultado |
+|---|---|---|
+| ⚡ **Liquidación de salarios** | Eliminé consultas N+1 en el cálculo de conceptos por funcionario | **500 funcionarios en menos de 2 min** (antes 4–5 min) |
+| 🧩 **Motor de formularios dinámicos** | Diseñé la primera versión, backend y frontend, basada en configuración JSON | Formularios nuevos sin programar pantallas |
+| 🔐 **Roles y permisos multiempresa** | Autorización granular sobre cada API REST | Información aislada por empresa |
+| 🏦 **Open Banking** | Adaptador, interfaz de configuración, guías y presentación al cliente | Solución entregada de punta a punta |
+| 🛡️ **Sistema de control de clientes** | Construido desde cero: lista negra, eventos, scheduling, correo SMTP | Producto completo en producción |
+
+> Por confidencialidad no publico código ni nombres de clientes de las empresas donde trabajo.
+
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,ts,postgres,mysql,docker,git,github&theme=dark" alt="Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=angular&logoColor=white" alt="PrimeNG" />
+  <img src="https://img.shields.io/badge/API_REST-005571?style=flat-square&logo=fastapi&logoColor=white" alt="API REST" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/JasperReports-2C3E50?style=flat-square" alt="JasperReports" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+</p>
+
+## 🧭 Cómo trabajo
+
+- **Arquitectura primero:** módulos desacoplados, adapters para servicios externos y modelos de datos pensados para crecer.
+- **Rendimiento medible:** si algo es lento, lo mido, encuentro la causa y lo demuestro con números.
+- **IA con criterio:** uso Claude Code y Codex para acelerar desarrollo, documentación y relevamiento; todo pasa por mi revisión y por pruebas.
+- **Equipo:** revisión de código, estándares claros y comunicación directa con las áreas usuarias.
+
+## 🎓 Formación
+
+- **Ingeniería en Informática** · Universidad Columbia del Paraguay
+- **Diplomado en Gestión de Proyectos con IA** · Universidad Columbia del Paraguay (2026)
+
+---
+
+<div align="center">
+
+💬 **¿Tienes un proyecto o una oportunidad?** Hablemos por [LinkedIn](https://www.linkedin.com/in/walter-ramirez-dev/) o por [correo](mailto:wramiez84@gmail.com).
+
+</div>
