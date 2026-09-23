@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero en Informática con casi **4 años** construyendo software para el **sector financiero y de Recursos Humanos**. Actualmente en **CLT S.A.**, donde además de desarrollar cumplo funciones de **liderazgo técnico** en el sistema de RRHH, coordinando a **3 desarrolladores** con Scrum en sprints de 2 semanas.
+Ingeniero en Informática con casi **4 años** construyendo software para el **sector financiero y de Recursos Humanos**. Actualmente en **CLT S.A.**, donde además de desarrollar cumplo funciones de **liderazgo técnico** en el sistema de RRHH.
 
 Vengo de una base contable y trabajé como analista funcional: entiendo el negocio antes de escribir código.
 
