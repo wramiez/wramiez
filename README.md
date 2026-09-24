@@ -34,7 +34,7 @@ Vengo de una base contable y trabajé como analista funcional: entiendo el negoc
 | 🧩 **Motor de formularios dinámicos** | Diseñé la primera versión, backend y frontend, basada en configuración JSON | Formularios nuevos sin programar pantallas |
 | 🔐 **Roles y permisos multiempresa** | Autorización granular sobre cada API REST | Información aislada por empresa |
 | 🏦 **Open Banking** | Adaptador, interfaz de configuración, guías y presentación al cliente | Solución entregada de punta a punta |
-| 🛡️ **Sistema de control de clientes** | Construido desde cero: lista negra, eventos, scheduling, correo SMTP | Producto completo en producción |
+| 🛡️ **Sistema de control de clientes** | Lógica de lista negra y módulos core: eventos, scheduling, usuarios y correo SMTP | Base del sistema construida desde cero (backend y frontend) |
 
 > Por confidencialidad no publico código ni nombres de clientes de las empresas donde trabajo.
 
